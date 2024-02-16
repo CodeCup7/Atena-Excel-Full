@@ -1,4 +1,4 @@
-# Atena - Ocenianie i Monitorowanie Jakości Pracy Agentów Contact Center
+🧐# Atena - Ocenianie i Monitorowanie Jakości Pracy Agentów Contact Center
 
 Opis
 To repozytorium zawiera w pełni funkcjonalną wersję demonstracyjną aplikacji w VBA Excel, która służy do oceny i monitorowania jakości pracy agentów contact center. 
