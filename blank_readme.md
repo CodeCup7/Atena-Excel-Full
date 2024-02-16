@@ -47,39 +47,6 @@ Wypakuj repozytorium na dysk i uruchom excela. Koniecznie włącz makra. Domyśl
 
 These instructions will help you to setup your own copy of project_name on your local machine for development and testing purposes. See [deployment](#Deployment) for notes on how to deploy the project on a live system.
 
-### 📚Prerequisite
-
--   []()
--   []()
-
-### 🧰Installation
-
-1. []()
-1. [.]()
-
-    ```bash
-    write code or commands like this
-    ```
-
-1. `and small snippets like this`
-
-## 🚀Deployment
-
-1. []()
-1. []()
-
-## 📝Todo
-
--   []()
--   []()
-
-## 📈Future Plans
-
--   []()
-
-## 🎈Usage
-
-How to use your project
 
 ## ✍️Authors
 
@@ -88,36 +55,5 @@ How to use your project
 -   [@author_name](profile link) - what he/she did
 
 
-## 📖Contributing
-
-<!-- You can leave this as it is or replace it with personalized text -->
-
-**_"In real open source, you have the right to control your own destiny."_** _- Linus Torvalds_
-
-Contributions are what make the open source community an amazing place. Any contributions you make are **greatly appreciated**.
-
-## 📢Contributors
-
-<!-- Add links to all the contributors profile here -->
-
--   [@contributor_name](profile link)
-
-## 💳License
-
-<!-- Mention your project licence here and also link to that file -->
-
-Distributed under the MIT License. See [`LICENSE`](LICENCE) for more information.
-
-## 🧬Resources
-
-<!-- Add links to all the resources you followed or referred to -->
-
--   []()
--   []()
-
-## 🎉Acknowledgement
-
--   [Shields](https://shields.io)
--   []()
 
 <!-- > _**NOTE:** Notes template._ -->
