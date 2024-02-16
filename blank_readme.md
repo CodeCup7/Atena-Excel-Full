@@ -1,78 +1,47 @@
-<!--
-Find and replace all these
-project_name: your project name
-github_username: your github username
-github_repo_link: your repo link
-and remove all the comments and also rename this file to README.md
- -->
+
 
 <div align="center">
-
-<!-- Add your project logo if you have any -->
-<img width=200px height=200px src="" alt="Project logo">
-
+<img width=200px height=200px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/Logo.png" alt="Project logo">
 </div>
 
-<h1 align="center">project_name</h1>
-
- <p align="center">
- 	<!-- Add your tagline or very short intro of your project -->
-	Your project tagline/short description here
-    <br />
-	<!-- Add your project live demo link here -->
-    <a href="https://github.com/github_username/github_repo_link">View Demo</a>
-    ·
-	<!-- Add you issue link here -->
-    <a href="https://github.com/github_username/github_repo_link/issues">Report Bug</a>
-    ·
-	<!-- Add you issue/discussion link here too -->
-    <a href="https://github.com/github_username/github_repo_link/issues">Request Feature</a>
-  </p>
-
-<div align="center">
-
-<!-- Use Shields website (link in acknowledgement section) to generate these for your repo or just replace the links here with yours -->
-
-[![Status](https://img.shields.io/badge/project_name-Live-success?style=for-the-badge)](https://your-live-project-link.com)
-![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
-[![GitHub issues](https://img.shields.io/github/issues/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link/issues)
-[![GitHub forks](https://img.shields.io/github/forks/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link/network)
-[![GitHub stars](https://img.shields.io/github/stars/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link/stargazers)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/github_username/github_repo_link?style=for-the-badge)
-[![GitHub license](https://img.shields.io/github/license/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link)
-
-</div>
-
-<hr />
-<br />
-
-<div align="center">
-
-<!-- Add your project demo gif here -->
-
-![Project Demo Gif](your_gif_link)
-
-</div>
-
+<h1 align="center">:star:Atena</h1>
+<h3 align="center">Ocenianie i Monitorowanie Jakości Pracy Agentów Contact Center</h3> 
 <hr />
 
-<p align="center">
-Project's introduction here
-</p>
+<div align="left">
+	<h2>:memo:O projekcie</h2>
+ 	Projekt zawiera w w pełni funkcjonalną wersję demonstracyjną aplikacji w VBA Excel, która służy do oceny i monitorowania jakości pracy agentów contact center. 
+	<br>Aplikacja w wersji produkcyjnej działa w organizacji już ponad rok i do tej pory umożliwniła ocenienie ponad :headphones:10k rozmów i :email:1k maili. 
+	<br>Obecnie ocenia prace ponad 150 agentów i jest głównym narzędziem pracy dla kilku trenerów.
+ 
+</div>
 
-## 🧐About
+## :bulb:Cechy
 
-About your project
+:diamond_shape_with_a_dot_inside: 1. Ocena jakości rozmów i korespondencji mail / social
+<br>:diamond_shape_with_a_dot_inside: 2. Przeprowadzanie comiesięcznych coachingów
+<br>:diamond_shape_with_a_dot_inside: 3. Monitrorowanie jakości (Dashboard, Statystytki)
+<br>:diamond_shape_with_a_dot_inside: 4. Ocena bierzącego odsłuchu
+<br>:diamond_shape_with_a_dot_inside: 5. Ocena tajemniczego klienta
+<br>:diamond_shape_with_a_dot_inside: 6. Agregowanie wyników testów wiedzy
+<br>:diamond_shape_with_a_dot_inside: 7. Agregowanie informacji zwrotnej "feedback" - pochwał i skarg
+<br>:diamond_shape_with_a_dot_inside: 8. Wyszukiwanie informacji po kryteriach
+<br>:diamond_shape_with_a_dot_inside: 9. Dashboard kolejek, trenerów oraz rankingi
+<br>:diamond_shape_with_a_dot_inside: 10. Automatyczne wysyłanie wiadomości e-Mail przez MS Outlook wraz z załącznikami
+<br>:diamond_shape_with_a_dot_inside: 11. Generowanie ocen i kart do excela 
+<br>:diamond_shape_with_a_dot_inside: 12. Pełna administracja użytkownikami, kolejkami i danymi
 
-## 💡Features
+## :computer:Technologia
+:small_blue_diamond: 1. Pełna aplikacja w Excel VBA (Forms)
+<br>:small_blue_diamond: 2. Baza danych MS Access
+<br>:small_blue_diamond: 3. Bezserwerowa aplikacja wykorzystująca dysk sieciowy
+<br>:small_blue_diamond: 4. Zaimplementowany system wymuszenia aktualizacji
+<br>:small_blue_diamond: 5. Zaimplementowany system wyłączenia dostępu do bazy danych
+<br>:small_blue_diamond: 6. Autoryzacja domenowa
 
-1. []()
-1. []()
+## :rocket:Instalacja
 
-## ⛏️Built with
-
--   []()
--   []()
+Wypakuj repozytorium na dysk i uruchom excela. Koniecznie włącz makra. Domyślnie ustawiony jest trener DEMO i podpięta baza danych w lokalizacji. Baza załadowana przykładowymi ocenami w zakresie czasowym 01.12.2023 - 29.02.2024
 
 ## 🏁Getting Started
 
@@ -117,6 +86,7 @@ How to use your project
 <!-- Add links to all the authors profile here OPTIONAL: You can mention what they did as well -->
 
 -   [@author_name](profile link) - what he/she did
+
 
 ## 📖Contributing
 
