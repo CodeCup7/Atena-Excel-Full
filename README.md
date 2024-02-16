@@ -13,6 +13,8 @@
  	Projekt zawiera w w pełni funkcjonalną wersję demonstracyjną aplikacji w VBA Excel, która służy do oceny i monitorowania jakości pracy agentów contact center. 
 	<br>Aplikacja w wersji produkcyjnej działa w organizacji już ponad rok i do tej pory umożliwniła ocenienie ponad :headphones:10k rozmów i :email:1k maili. 
 	<br>Obecnie ocenia prace ponad 150 agentów i jest głównym narzędziem pracy dla kilku trenerów.
+
+ <img width=1381px height=620px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/assets/rateCC.gif">
  
 </div>
 
