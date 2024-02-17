@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align="center">
- <img width=1381px height=420px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/assets/rateCC.gif">
+ <img width=890px height=510px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/assets/rateCC.gif">
 </div>
 
 ## :bulb:Cechy
