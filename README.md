@@ -52,7 +52,6 @@ Oceń rozmowy używając karty oceny lub maile używając karty mail. Wybierz ag
 Szymon Kawa
 
  ##  :telephone: Kontakt
-:mailbox: szymon.kawa@gmail.com
 :link: [@github](https://github.com/CodeCup7) 
 
 
