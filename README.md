@@ -6,6 +6,11 @@
 <h3 align="center">Ocenianie i Monitorowanie Jakości Pracy Agentów Contact Center</h3> 
 <hr />
 
+<div align="center">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
+</div>
+
 <div align="left">
 	<h2>:memo:O projekcie</h2>
  	Projekt zawiera w w pełni funkcjonalną wersję demonstracyjną aplikacji w VBA Excel, która służy do oceny i monitorowania jakości pracy agentów contact center. 
