@@ -52,10 +52,8 @@ These instructions will help you to setup your own copy of project_name on your 
 
 ## ✍️Authors
 
-<!-- Add links to all the authors profile here OPTIONAL: You can mention what they did as well -->
 
 -   [@author_name](profile link) - what he/she did
 
 
 
-<!-- > _**NOTE:** Notes template._ -->
