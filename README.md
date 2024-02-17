@@ -46,7 +46,7 @@ Wypakuj repozytorium na dysk i uruchom excela. Koniecznie włącz makra. Domyśl
 
 ## :dart:Przykładowy proces
 
-Oceń rozmowy używając karty oceny lub maile używając karty mail. Wybierz agenta, datę i kolejkę. Następnie możesz wybrać oceny poszczególnych bloków jak wiedza czy technika osbługi. Po ocenie jednej lub wielu rozmów / mailu przejdź do menu monitoringu. Wybierz miesiąc i pobierz dane. Wybieerz agenta którego rozmowy oceniono i jego rozmowy zaznaczając je. Wybierz rozpocznij coaching. Na karcie coacha możesz zatwierdzić coaching lub wpisać dodatkoowe uwagi. Po zatwierdzeniu możeszz wygenerować dashboard dla ocenionego agenta. 
+Oceń rozmowy używając karty oceny lub maile używając karty mail. Wybierz agenta, datę i kolejkę. Następnie możesz wybrać oceny poszczególnych bloków jak wiedza czy technika obsługi. Po ocenie jednej lub wielu rozmów / mailu przejdź do menu monitoringu. Wybierz miesiąc i pobierz dane. Wybierze agenta którego rozmowy oceniono i jego rozmowy zaznaczając je. Wybierz rozpocznij coaching. Na karcie coacha możesz zatwierdzić coaching lub wpisać dodatkowe uwagi. Po zatwierdzeniu możesz wygenerować dashboard dla ocenionego agenta.
 
 ## ✍️Autor
 Szymon Kawa
