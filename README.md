@@ -44,18 +44,15 @@
 
 Wypakuj repozytorium na dysk i uruchom excela. Koniecznie włącz makra. Domyślnie ustawiony jest trener DEMO i podpięta baza danych w lokalizacji. Baza załadowana przykładowymi ocenami w zakresie czasowym 01.12.2023 - 29.02.2024
 
-## 🏁Getting Started
+## :dart:Przykładowy proces
 
-These instructions will help you to setup your own copy of project_name on your local machine for development and testing purposes. See [deployment](#Deployment) for notes on how to deploy the project on a live system.
-
+Oceń rozmowy używając karty oceny lub maile używając karty mail. Wybierz agenta, datę i kolejkę. Następnie możesz wybrać oceny poszczególnych bloków jak wiedza czy technika osbługi. Po ocenie jednej lub wielu rozmów / mailu przejdź do menu monitoringu. Wybierz miesiąc i pobierz dane. Wybieerz agenta którego rozmowy oceniono i jego rozmowy zaznaczając je. Wybierz rozpocznij coaching. Na karcie coacha możesz zatwierdzić coaching lub wpisać dodatkoowe uwagi. Po zatwierdzeniu możeszz wygenerować dashboard dla ocenionego agenta. 
 
 ## ✍️Autor
-<h3 align="left">Szymon Kawa</h3> 
+Szymon Kawa
 
+ ##  :telephone: Kontakt
 :mailbox: [@mail](szymon.kawa@gmail.com) 
 :link: [@github](https://github.com/CodeCup7) 
-
-
-:telephone:## Kontakt
 
 
