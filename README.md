@@ -49,10 +49,10 @@ Wypakuj repozytorium na dysk i uruchom excela. Koniecznie włącz makra. Domyśl
 These instructions will help you to setup your own copy of project_name on your local machine for development and testing purposes. See [deployment](#Deployment) for notes on how to deploy the project on a live system.
 
 
-## ✍️Authors
-
+## ✍️Autor
+<h3 align="center">Szymon Kawa</h3> 
 
 -   [@author_name](profile link) - what he/she did
-
+:telephone:## Kontakt
 
 
