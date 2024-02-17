@@ -50,9 +50,12 @@ These instructions will help you to setup your own copy of project_name on your 
 
 
 ## ✍️Autor
-<h3 align="center">Szymon Kawa</h3> 
+<h3 align="left">Szymon Kawa</h3> 
 
--   [@author_name](profile link) - what he/she did
+:mailbox: [@mail](szymon.kawa@gmail.com) 
+:link: [@github](https://github.com/CodeCup7) 
+
+
 :telephone:## Kontakt
 
 
