@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img width=200px height=200px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/Logo.png" alt="Project logo">
 </div>
@@ -8,14 +6,20 @@
 <h3 align="center">Ocenianie i Monitorowanie Jakości Pracy Agentów Contact Center</h3> 
 <hr />
 
+<div align="center">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
+</div>
+
 <div align="left">
 	<h2>:memo:O projekcie</h2>
  	Projekt zawiera w w pełni funkcjonalną wersję demonstracyjną aplikacji w VBA Excel, która służy do oceny i monitorowania jakości pracy agentów contact center. 
 	<br>Aplikacja w wersji produkcyjnej działa w organizacji już ponad rok i do tej pory umożliwniła ocenienie ponad :headphones:10k rozmów i :email:1k maili. 
 	<br>Obecnie ocenia prace ponad 150 agentów i jest głównym narzędziem pracy dla kilku trenerów.
-
- <img width=1381px height=620px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/assets/rateCC.gif">
- 
+</div>
+<br>
+<div align="center">
+ <img width=890px height=510px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/assets/rateCC.gif">
 </div>
 
 ## :bulb:Cechy
@@ -45,15 +49,14 @@
 
 Wypakuj repozytorium na dysk i uruchom excela. Koniecznie włącz makra. Domyślnie ustawiony jest trener DEMO i podpięta baza danych w lokalizacji. Baza załadowana przykładowymi ocenami w zakresie czasowym 01.12.2023 - 29.02.2024
 
-## 🏁Getting Started
+## :dart:Przykładowy proces
 
-These instructions will help you to setup your own copy of project_name on your local machine for development and testing purposes. See [deployment](#Deployment) for notes on how to deploy the project on a live system.
+Oceń rozmowy używając karty oceny lub maile używając karty mail. Wybierz agenta, datę i kolejkę. Następnie możesz wybrać oceny poszczególnych bloków jak wiedza czy technika obsługi. Po ocenie jednej lub wielu rozmów / mailu przejdź do menu monitoringu. Wybierz miesiąc i pobierz dane. Wybierze agenta którego rozmowy oceniono i jego rozmowy zaznaczając je. Wybierz rozpocznij coaching. Na karcie coacha możesz zatwierdzić coaching lub wpisać dodatkowe uwagi. Po zatwierdzeniu możesz wygenerować dashboard dla ocenionego agenta.
 
+## ✍️Autor
+Szymon Kawa
 
-## ✍️Authors
-
-
--   [@author_name](profile link) - what he/she did
-
+ ##  :telephone: Kontakt
+:link: [@github](https://github.com/CodeCup7) 
 
 
