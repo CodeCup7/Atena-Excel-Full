@@ -18,9 +18,7 @@
 	<br>Obecnie ocenia prace ponad 150 agentów i jest głównym narzędziem pracy dla kilku trenerów.
 </div>
 <br>
-<div align="center">
- <img width=890px height=510px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/assets/rateCC.gif">
-</div>
+
 
 ## :bulb:Cechy
 
@@ -49,14 +47,34 @@
 
 Wypakuj repozytorium na dysk i uruchom excela. Koniecznie włącz makra. Domyślnie ustawiony jest trener DEMO i podpięta baza danych w lokalizacji. Baza załadowana przykładowymi ocenami w zakresie czasowym 01.12.2023 - 29.02.2024
 
-## :dart:Przykładowy proces
+## :dart:Przykładowy proces:
+### :point_right: 1. Oceń rozmowę lub wiadomość:
+Używając karty oceny lub karty mail. Wybierz agenta, daty, kolejkę tam gdzie wymagane. Następnie możesz wybrać oceny poszczególnych bloków jak wiedza czy technika obsługi. Przykładową ocenę pokazano poniżej:
 
-Oceń rozmowy używając karty oceny lub maile używając karty mail. Wybierz agenta, datę i kolejkę. Następnie możesz wybrać oceny poszczególnych bloków jak wiedza czy technika obsługi. Po ocenie jednej lub wielu rozmów / mailu przejdź do menu monitoringu. Wybierz miesiąc i pobierz dane. Wybierze agenta którego rozmowy oceniono i jego rozmowy zaznaczając je. Wybierz rozpocznij coaching. Na karcie coacha możesz zatwierdzić coaching lub wpisać dodatkowe uwagi. Po zatwierdzeniu możesz wygenerować dashboard dla ocenionego agenta.
+https://github.com/CodeCup7/Atena-Excel-Full/assets/97393786/c6affce7-fa3b-4193-8a32-cc36d588523a
+
+### :point_right: 2. Przeprowadź coaching:
+Po ocenie jednej lub wielu rozmów / mailu przejdź do menu monitoringu. Wybierz miesiąc i pobierz dane. Wybierze agenta którego rozmowy oceniono
+i jego rozmowy zaznaczając je. Wybierz rozpocznij coaching. Na karcie coacha możesz zatwierdzić coaching lub wpisać dodatkowe uwagi. Po zatwierdzeniu możesz wygenerować dashboard dla ocenionego agenta.
+
+https://github.com/CodeCup7/Atena-Excel-Full/assets/97393786/fcfbd73b-52ce-492d-b02e-2005c823a466
+
+### :point_right: 3. Sprawdź postępy:
+Na końcu możesz wygenerować Dashboard Agenta i sprawdzić jego postępy. 
+
+https://github.com/CodeCup7/Atena-Excel-Full/assets/97393786/f452b7d0-9132-477c-b98b-ba9e70637a22
+
+
+## :ledger:
 
 ## ✍️Autor
 Szymon Kawa
 
  ##  :telephone: Kontakt
 :link: [@github](https://github.com/CodeCup7) 
+
+
+
+
 
 
