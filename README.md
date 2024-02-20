@@ -19,10 +19,19 @@
 </div>
 <br>
 
-<img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/menu.png" width="50%" height="50%"> <img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/karta-oceny.png" width="50%" height="50%">
-<img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/dashboard.png" width="50%" height="50%">
-
-
+<table>
+  <tr align="center">
+    <td>Menu główne</td>
+     <td>Karta oceny rozmowy</td>
+     <td>Dashboard Agenta</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/menu.png"</td>
+    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/karta-oceny.png"></td>
+    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/dashboard.png"></td>
+  </tr>
+ </table>
+ 
 ## :bulb: Główne Cechy
 
 :diamond_shape_with_a_dot_inside: 1. Ocena jakości rozmów i korespondencji mail / social
@@ -67,9 +76,6 @@ https://github.com/CodeCup7/Atena-Excel-Full/assets/97393786/fcfbd73b-52ce-492d-
 Na końcu możesz wygenerować Dashboard Agenta i sprawdzić jego postępy. 
 
 https://github.com/CodeCup7/Atena-Excel-Full/assets/97393786/f452b7d0-9132-477c-b98b-ba9e70637a22
-
-
-## :ledger:
 
 ## ✍️Autor
 Szymon Kawa
