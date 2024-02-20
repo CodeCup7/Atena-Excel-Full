@@ -1,5 +1,5 @@
 <div align="center">
-<img width=200px height=200px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/Logo.png" alt="Project logo">
+<img width=200px height=200px src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/logo.png" alt="Project logo">
 </div>
 
 <h1 align="center">:star:Atena</h1>
