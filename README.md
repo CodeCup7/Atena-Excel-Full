@@ -77,6 +77,9 @@ Na końcu możesz wygenerować Dashboard Agenta i sprawdzić jego postępy.
 
 https://github.com/CodeCup7/Atena-Excel-Full/assets/97393786/f452b7d0-9132-477c-b98b-ba9e70637a22
 
+## :art: Layout
+Cała grafikę jak i wszystkie ikony powstały przy udziale czcionki "Segoe UI Symbol". 
+
 ## ✍️Autor
 Szymon Kawa
 
