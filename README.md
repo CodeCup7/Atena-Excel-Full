@@ -1,5 +1,5 @@
 <div align="center">
-<img width=200px height=200px src="https://github.com/CodeCup7/Atena-Excel-Full/blob/main/Logo.png" alt="Project logo">
+<img width=200px height=200px src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/logo.png" alt="Project logo">
 </div>
 
 <h1 align="center">:star:Atena</h1>
@@ -19,8 +19,20 @@
 </div>
 <br>
 
-
-## :bulb:Cechy
+<table>
+  <tr align="center">
+    <td>Menu główne</td>
+     <td>Karta oceny rozmowy</td>
+     <td>Dashboard Agenta</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/menu.png"</td>
+    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/karta-oceny.png"></td>
+    <td><img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/dashboard.png"></td>
+  </tr>
+ </table>
+ 
+## :bulb: Główne Cechy
 
 :diamond_shape_with_a_dot_inside: 1. Ocena jakości rozmów i korespondencji mail / social
 <br>:diamond_shape_with_a_dot_inside: 2. Przeprowadzanie comiesięcznych coachingów
@@ -32,8 +44,9 @@
 <br>:diamond_shape_with_a_dot_inside: 8. Wyszukiwanie informacji po kryteriach
 <br>:diamond_shape_with_a_dot_inside: 9. Dashboard kolejek, trenerów oraz rankingi
 <br>:diamond_shape_with_a_dot_inside: 10. Automatyczne wysyłanie wiadomości e-Mail przez MS Outlook wraz z załącznikami
-<br>:diamond_shape_with_a_dot_inside: 11. Generowanie ocen i kart do excela 
-<br>:diamond_shape_with_a_dot_inside: 12. Pełna administracja użytkownikami, kolejkami i danymi
+<br>:diamond_shape_with_a_dot_inside: 11. Generowanie ocen i kart oraz ich export do pliku
+<br>:diamond_shape_with_a_dot_inside: 12. Generowanie raportów z błędów agentów
+<br>:diamond_shape_with_a_dot_inside: 13. Pełna administracja użytkownikami, kolejkami i danymi
 
 ## :computer:Technologia
 :small_blue_diamond: 1. Pełna aplikacja w Excel VBA (Forms)
@@ -64,8 +77,8 @@ Na końcu możesz wygenerować Dashboard Agenta i sprawdzić jego postępy.
 
 https://github.com/CodeCup7/Atena-Excel-Full/assets/97393786/f452b7d0-9132-477c-b98b-ba9e70637a22
 
-
-## :ledger:
+## :art: Layout
+Cała grafikę jak i wszystkie ikony powstały przy udziale czcionki "Segoe UI Symbol". 
 
 ## ✍️Autor
 Szymon Kawa
