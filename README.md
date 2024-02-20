@@ -19,8 +19,11 @@
 </div>
 <br>
 
+<img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/menu.png" width="50%" height="50%"> <img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/karta-oceny.png" width="50%" height="50%">
+<img src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/atena/dashboard.png" width="50%" height="50%">
 
-## :bulb:Cechy
+
+## :bulb: Główne Cechy
 
 :diamond_shape_with_a_dot_inside: 1. Ocena jakości rozmów i korespondencji mail / social
 <br>:diamond_shape_with_a_dot_inside: 2. Przeprowadzanie comiesięcznych coachingów
@@ -32,8 +35,9 @@
 <br>:diamond_shape_with_a_dot_inside: 8. Wyszukiwanie informacji po kryteriach
 <br>:diamond_shape_with_a_dot_inside: 9. Dashboard kolejek, trenerów oraz rankingi
 <br>:diamond_shape_with_a_dot_inside: 10. Automatyczne wysyłanie wiadomości e-Mail przez MS Outlook wraz z załącznikami
-<br>:diamond_shape_with_a_dot_inside: 11. Generowanie ocen i kart do excela 
-<br>:diamond_shape_with_a_dot_inside: 12. Pełna administracja użytkownikami, kolejkami i danymi
+<br>:diamond_shape_with_a_dot_inside: 11. Generowanie ocen i kart oraz ich export do pliku
+<br>:diamond_shape_with_a_dot_inside: 12. Generowanie raportów z błędów agentów
+<br>:diamond_shape_with_a_dot_inside: 13. Pełna administracja użytkownikami, kolejkami i danymi
 
 ## :computer:Technologia
 :small_blue_diamond: 1. Pełna aplikacja w Excel VBA (Forms)
