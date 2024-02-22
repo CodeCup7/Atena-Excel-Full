@@ -13,9 +13,10 @@
 
 <div align="left">
 	<h2>:memo:O projekcie</h2>
- 	Projekt zawiera w w pełni funkcjonalną wersję demonstracyjną aplikacji w VBA Excel, która służy do oceny i monitorowania jakości pracy agentów contact center. 
-	<br>Aplikacja w wersji produkcyjnej działa w organizacji już ponad rok i do tej pory umożliwniła ocenienie ponad :headphones:10k rozmów i :email:1k maili. 
+ 	:small_orange_diamond: Projekt zawiera w w pełni funkcjonalną wersję demonstracyjną aplikacji w VBA Excel, która służy do oceny i monitorowania jakości pracy agentów contact center. 
+	<br>:small_orange_diamond: Aplikacja w wersji produkcyjnej działa w organizacji już ponad rok i do tej pory umożliwniła ocenienie ponad :headphones:10k rozmów i :email:1k maili. 
 	<br>Obecnie ocenia prace ponad 150 agentów i jest głównym narzędziem pracy dla kilku trenerów.
+	<br>:small_orange_diamond: Aplikacja na produkcji nie jest udostępniona agentom ze względu na specyfikę procesu. Dostęp do danych uzyskują oni poprzez e-mail. Pozostałe role (trenerzy, kierownicy, liderzy, superwizorzy) mają pełny dostęp do Ateny.
 </div>
 <br>
 
