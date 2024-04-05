@@ -37,8 +37,8 @@
 
 :diamond_shape_with_a_dot_inside: 1. Ocena jakości rozmów i korespondencji mail / social
 <br>:diamond_shape_with_a_dot_inside: 2. Przeprowadzanie comiesięcznych coachingów
-<br>:diamond_shape_with_a_dot_inside: 3. Monitrorowanie jakości (Dashboard, Statystytki)
-<br>:diamond_shape_with_a_dot_inside: 4. Ocena bierzącego odsłuchu
+<br>:diamond_shape_with_a_dot_inside: 3. Monitorowanie jakości (Dashboard, Statystyki)
+<br>:diamond_shape_with_a_dot_inside: 4. Ocena bieżącego odsłuchu
 <br>:diamond_shape_with_a_dot_inside: 5. Ocena tajemniczego klienta
 <br>:diamond_shape_with_a_dot_inside: 6. Agregowanie wyników testów wiedzy
 <br>:diamond_shape_with_a_dot_inside: 7. Agregowanie informacji zwrotnej "feedback" - pochwał i skarg
